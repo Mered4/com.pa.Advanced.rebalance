@@ -9,7 +9,7 @@
 	      "acceleration":30,
 	      "brake":30,
 	      "move_speed":50,
-	      "turn_speed":135,
+	      "turn_speed":45,
 	      "dodge_radius":0,
 	      "dodge_multiplier":0.0,
 	      "aggressive_distance":180.0,
