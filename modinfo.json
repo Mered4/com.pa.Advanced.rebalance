@@ -4,14 +4,14 @@
     "identifier": "com.pa.Advanced.rebalance",
     "display_name": "The Community UberBalance: Final",
     "build": "73939",
-    "date": "2014/10/21",
+    "date": "2014/10/22",
     "description": "Fixes important problems with the current unit roster, including high-cost advanced units and perpetual dox",
     "category": [
         "in-game",
         "server-mod"
     ],
     "author": "Mered4",
-    "version": "1.0",
+    "version": "1.01",
     "signature": "(not yet implemented)",
     "forum": "https://forums.uberent.com/threads/fixing-the-balance.65408/",
     "icon": "http://i.imgur.com/cU4Qyg0.png",
