@@ -2,7 +2,7 @@
 "display_name":"!LOC(units:advanced_radar.message):Advanced Radar",
 "description":"!LOC(units:advanced_radar_detects_nearby_enemy_land_sea_and_air_units.message):Advanced radar- Detects nearby enemy land, sea, and air units.",
 "max_health":1500,
-"build_metal_cost":4200,
+"build_metal_cost":2800,
 "consumption":{"energy":4500},
 "energy_efficiency_requirement":0.9,
 "atrophy_rate":80.0,
