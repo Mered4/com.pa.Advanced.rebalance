@@ -2,7 +2,7 @@
 "display_name":"!LOC(units:grenadier.message):Grenadier",
 "description":"!LOC(units:grenadier_basic_assault_weapons_dealing_area_effect_damage.message):Grenadier- Basic assault weapons dealing area effect damage.",
 "max_health":80,
-"build_metal_cost":55,
+"build_metal_cost":65,
 "attachable":{"offsets":{"root":[0,0,0],"head":[0,0,4]}},
 "unit_types":["UNITTYPE_Bot","UNITTYPE_Mobile","UNITTYPE_Offense","UNITTYPE_Artillery","UNITTYPE_Land","UNITTYPE_Basic","UNITTYPE_FactoryBuild"],
 "transportable":{"size":1},"guard_layer":"WL_AnySurface",
